@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1746644939565
+current_stage: None
+description: ''
+last_updated_timestamp: 1746644939565
+name: decisiontree_17_regressor
+run_id: 7cf20f152c4b4a099996ac1e0d68e768
+run_link: ''
+source: mlflow-artifacts:/385051242096443109/7cf20f152c4b4a099996ac1e0d68e768/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/385051242096443109/7cf20f152c4b4a099996ac1e0d68e768/artifacts/model
+user_id: null
+version: 3

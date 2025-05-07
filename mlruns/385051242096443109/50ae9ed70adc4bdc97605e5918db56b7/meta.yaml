@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/385051242096443109/50ae9ed70adc4bdc97605e5918db56b7/artifacts
+deleted_time: 1746646020499
+end_time: 1746645450922
+entry_point_name: ''
+experiment_id: '385051242096443109'
+lifecycle_stage: deleted
+run_id: 50ae9ed70adc4bdc97605e5918db56b7
+run_name: polynomialfeatures_1_default
+run_uuid: 50ae9ed70adc4bdc97605e5918db56b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746645450867
+status: 4
+tags: []
+user_id: alper

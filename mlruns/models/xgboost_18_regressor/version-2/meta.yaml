@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1746645095693
+current_stage: None
+description: ''
+last_updated_timestamp: 1746645095693
+name: xgboost_18_regressor
+run_id: 5a49c9dfa08548a2a8bf78e7ff33a2f0
+run_link: ''
+source: mlflow-artifacts:/385051242096443109/5a49c9dfa08548a2a8bf78e7ff33a2f0/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/385051242096443109/5a49c9dfa08548a2a8bf78e7ff33a2f0/artifacts/model
+user_id: null
+version: 2

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/385051242096443109/4f309b3cc2fd4491859c6ccd2c214f21/artifacts
+deleted_time: 1746646020139
+end_time: 1746645450841
+entry_point_name: ''
+experiment_id: '385051242096443109'
+lifecycle_stage: deleted
+run_id: 4f309b3cc2fd4491859c6ccd2c214f21
+run_name: linearregression_1_default
+run_uuid: 4f309b3cc2fd4491859c6ccd2c214f21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746645446982
+status: 3
+tags: []
+user_id: alper

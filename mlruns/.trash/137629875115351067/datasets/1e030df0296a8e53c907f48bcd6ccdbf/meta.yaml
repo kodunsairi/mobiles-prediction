@@ -1,0 +1,17 @@
+digest: 15df9989
+name: train_dataset_v1
+profile: '{"num_rows": 465, "num_elements": 6975}'
+schema: '{"mlflow_colspec": [{"type": "string", "name": "Company Name", "required":
+  true}, {"type": "string", "name": "Model Name", "required": true}, {"type": "string",
+  "name": "Mobile Weight", "required": true}, {"type": "string", "name": "RAM", "required":
+  true}, {"type": "string", "name": "Front Camera", "required": true}, {"type": "string",
+  "name": "Back Camera", "required": true}, {"type": "string", "name": "Processor",
+  "required": true}, {"type": "string", "name": "Battery Capacity", "required": true},
+  {"type": "string", "name": "Screen Size", "required": true}, {"type": "string",
+  "name": "Launched Price (Pakistan)", "required": true}, {"type": "string", "name":
+  "Launched Price (India)", "required": true}, {"type": "string", "name": "Launched
+  Price (China)", "required": true}, {"type": "double", "name": "Launched Price (USA)",
+  "required": true}, {"type": "string", "name": "Launched Price (Dubai)", "required":
+  true}, {"type": "long", "name": "Launched Year", "required": true}]}'
+source: '{"uri": "split_v1"}'
+source_type: local

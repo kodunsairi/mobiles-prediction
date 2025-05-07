@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/275298631337104548/aa4abf881c0349ee952558da9308cf3f/artifacts
+end_time: 1746646768811
+entry_point_name: ''
+experiment_id: '275298631337104548'
+lifecycle_stage: active
+run_id: aa4abf881c0349ee952558da9308cf3f
+run_name: decisiontree_6_optimized
+run_uuid: aa4abf881c0349ee952558da9308cf3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746646765615
+status: 3
+tags: []
+user_id: alper

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/385051242096443109/007d0bcefd414bf58b9eeade6ca46c84/artifacts
+deleted_time: 1746646020282
+end_time: 1746645072175
+entry_point_name: ''
+experiment_id: '385051242096443109'
+lifecycle_stage: deleted
+run_id: 007d0bcefd414bf58b9eeade6ca46c84
+run_name: xgboost_11_optimized
+run_uuid: 007d0bcefd414bf58b9eeade6ca46c84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746645068908
+status: 3
+tags: []
+user_id: alper

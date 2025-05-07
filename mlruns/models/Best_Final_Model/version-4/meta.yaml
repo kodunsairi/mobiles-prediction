@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1746643234027
+current_stage: None
+description: ''
+last_updated_timestamp: 1746643234027
+name: Best_Final_Model
+run_id: 6801103a31e74e9a8e55768b8642e661
+run_link: ''
+source: mlflow-artifacts:/691661627791233219/6801103a31e74e9a8e55768b8642e661/artifacts/final_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/691661627791233219/6801103a31e74e9a8e55768b8642e661/artifacts/final_model
+user_id: null
+version: 4

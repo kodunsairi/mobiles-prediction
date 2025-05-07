@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1746645034903
+current_stage: None
+description: ''
+last_updated_timestamp: 1746645034903
+name: randomforest_21_regressor
+run_id: bec8a2b84b2144b8ab173f6f7ba6ae2a
+run_link: ''
+source: mlflow-artifacts:/385051242096443109/bec8a2b84b2144b8ab173f6f7ba6ae2a/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/385051242096443109/bec8a2b84b2144b8ab173f6f7ba6ae2a/artifacts/model
+user_id: null
+version: 2

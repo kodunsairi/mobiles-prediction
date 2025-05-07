@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1746644614813
+current_stage: None
+description: ''
+last_updated_timestamp: 1746644614813
+name: linearregression_1_regressor
+run_id: 124742f051514b85a4e6db2a70694138
+run_link: ''
+source: mlflow-artifacts:/630068992530006628/124742f051514b85a4e6db2a70694138/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/630068992530006628/124742f051514b85a4e6db2a70694138/artifacts/model
+user_id: null
+version: 5
